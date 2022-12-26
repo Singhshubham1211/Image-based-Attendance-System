@@ -1,14 +1,13 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+Designed image based attendance system using machine learning algorithm Linear SVM, HOG.
 
+Python libraries such as face recognition, dlib, pandas has been used
 
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [![Face Recognition][face_recognition]][https://pypi.org/project/face-recognition/]
-* [![dlib][dlib]][http://dlib.net/python/index.html]
-* [![Pandas][pandas]][https://pandas.pydata.org/]
-* [![Numpy][numpy]][https://numpy.org/]
+* Face Recognition [face_recognition]
+* dlib
+* Pandas
+* Numpy
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
