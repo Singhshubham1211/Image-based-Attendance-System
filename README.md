@@ -12,9 +12,4 @@ Python libraries such as face recognition, dlib, pandas has been used
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- USAGE EXAMPLES -->
-## Screenshots
 
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
